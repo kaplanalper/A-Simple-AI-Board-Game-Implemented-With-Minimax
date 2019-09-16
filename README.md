@@ -5,7 +5,7 @@ Written in C, implemented with Minimax algorithm.
 
 # Board Game Rules
 
-There is a 7x7 board, a parametric turn limit and a parametrical number of pieces for each player.
+There are a 7x7 board, a parametric turn limit and a parametrical number of pieces for each player.
 Initial positions of these pieces are random.
 
 On each turn current player makes a single move: Moving his piece to one of its four neighbours. Don’t forget the board is the same board for both players.
