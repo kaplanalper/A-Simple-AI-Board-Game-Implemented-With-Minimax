@@ -1,5 +1,5 @@
 # A-Simple-AI-Board-Game-Implemented-With-Minimax
-A simple board game written for CSE 562 Artificial Intelligence Master's Course Assignment (Yeditepe University, Istanbul, Turkey).
+A simple board game written for CSE 562 Artificial Intelligence (Fall 2017) Master's Course Assignment (Yeditepe University, Istanbul, Turkey).
 
 Written in C, implemented with Minimax algorithm.
 
