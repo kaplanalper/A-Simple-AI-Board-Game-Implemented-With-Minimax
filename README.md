@@ -18,13 +18,13 @@ At the start of the game the number of pieces for a single player and the maximu
 
 After board is initialized and at the end of each turn coordinate system and the squares occupied with pieces labeled by their player indicator are printed.
 
-# Computer's turn
+## Computer's turn
 
 Computer moves its piece to an available square and print the new position as shown below:
 
 Computer moves the piece at g4 to g5
 
-# User's turn
+## User's turn
 
 If it is user’s turn, user will type the desired move in same structure as the computer. First the coordinate of the piece that is wanted to be moved and then the new coordinate of the piece.
 
@@ -46,12 +46,12 @@ Columns are represented as numbers between “1 and 7”.
 Rows are represented as letters between “a-g”.
 (“a1” is top left square and “g7” is bottom right.)
 
-# Ending & Winning
+## Ending & Winning
 The game ends when one of the players can not make a valid move or the turn limit has been reached.
 When one of the players cannot make a valid move, the game ends and the other player will be the winner.
 When the turn limit is reached, the game ends and the player with more valid moveable space will be the winner.
 
-# Examples
+## Examples
 
 ![](in-game%20board%20view%20examples.png)
 
